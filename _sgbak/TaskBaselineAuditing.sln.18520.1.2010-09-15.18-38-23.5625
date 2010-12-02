@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBaselineAuditing", "TaskBaselineAuditing\TaskBaselineAuditing.csproj", "{92EA1E9F-C944-47A8-A369-125BCA6E9669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{1E7C2D57-8572-4A28-88E7-4A5E6F5CF8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITXTaskBaseLineAudit", "ITXTaskBaseLineAudit\ITXTaskBaseLineAudit.csproj", "{45E4B44A-229C-48E7-A2FE-15AA2DEF5529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer", "Installer\Installer\Installer.csproj", "{9CEBA478-8E69-4C58-B7C0-BAE092E2FCF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92EA1E9F-C944-47A8-A369-125BCA6E9669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EA1E9F-C944-47A8-A369-125BCA6E9669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EA1E9F-C944-47A8-A369-125BCA6E9669}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{92EA1E9F-C944-47A8-A369-125BCA6E9669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EA1E9F-C944-47A8-A369-125BCA6E9669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EA1E9F-C944-47A8-A369-125BCA6E9669}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1E7C2D57-8572-4A28-88E7-4A5E6F5CF8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7C2D57-8572-4A28-88E7-4A5E6F5CF8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7C2D57-8572-4A28-88E7-4A5E6F5CF8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7C2D57-8572-4A28-88E7-4A5E6F5CF8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E4B44A-229C-48E7-A2FE-15AA2DEF5529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E4B44A-229C-48E7-A2FE-15AA2DEF5529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E4B44A-229C-48E7-A2FE-15AA2DEF5529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E4B44A-229C-48E7-A2FE-15AA2DEF5529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CEBA478-8E69-4C58-B7C0-BAE092E2FCF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEBA478-8E69-4C58-B7C0-BAE092E2FCF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CEBA478-8E69-4C58-B7C0-BAE092E2FCF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEBA478-8E69-4C58-B7C0-BAE092E2FCF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(VaultVsipSolution-v2) = preSolution
+		VaultHost = http://itxsvrproxy001/VaultService
+		VaultRepositoryID = 2
+		VaultRepositoryGUID = a58c8ae4-e679-44c8-8d4d-b91e466a3a86
+		ProjectCount = 4
+		ProjectRelativeDiskPath1 = TaskBaselineAuditing\TaskBaselineAuditing.csproj
+		ProjectRelativeDiskPath2 = TestConsole\TestConsole.csproj
+		ProjectRelativeDiskPath3 = ITXTaskBaseLineAudit\ITXTaskBaseLineAudit.csproj
+		ProjectRelativeDiskPath4 = Installer\Installer\Installer.csproj
+	EndGlobalSection
+EndGlobal

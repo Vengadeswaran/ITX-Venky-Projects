@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\Desktop\Development Projects\TaskBaselineAuditing\TaskBaselineAuditing\bin\Debug\TaskBaselineAuditing.dll
+C:\Documents and Settings\Administrator\Desktop\Development Projects\TaskBaselineAuditing\TaskBaselineAuditing\bin\Debug\TaskBaselineAuditing.pdb
+C:\Documents and Settings\Administrator\Desktop\Development Projects\TaskBaselineAuditing\TaskBaselineAuditing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Development Projects\TaskBaselineAuditing\TaskBaselineAuditing\obj\Debug\TaskBaselineAuditing.dll
+C:\Documents and Settings\Administrator\Desktop\Development Projects\TaskBaselineAuditing\TaskBaselineAuditing\obj\Debug\TaskBaselineAuditing.pdb

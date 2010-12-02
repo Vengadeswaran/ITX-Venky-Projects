@@ -1,0 +1,5 @@
+SCC = This is a source code control file
+
+[TaskBaselineAuditing.sln]
+SCC_Aux_Path = http://itxsvrproxy001/VaultService|Vault:2
+SCC_Project_Name = $/TaskBaselineAuditing

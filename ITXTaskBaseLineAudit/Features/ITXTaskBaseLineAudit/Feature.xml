@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/"
+         Id="{74636350-7099-42e5-9D67-BB65FB80E7FA}"
+         Title="ITX Task BaseLine Change Monitor"
+         Description="This feature is to install custom code to track the task baseline value changes."
+         Scope="Site"
+         Hidden="false"
+         Version="1.0.0.0"
+         ReceiverAssembly="ITXTaskBaseLineAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a057dbdec2bb44af"
+         ReceiverClass="ITXTaskBaseLineAudit.FeatureReceiver"
+         >
+</Feature>
